@@ -9,7 +9,6 @@ body {
 }
 
 h1 {
-    font: 600 3.5em 'Raleway', sans-serif;
     color: rgba(0,0,0,.5);
     text-align: center;
     text-transform: uppercase;
@@ -18,7 +17,6 @@ h1 {
 }
 
 h3 {
-    font-family: 'Raleway', sans-serif;
     color: rgba(0,0,0,.5);
     text-align: center;
     text-transform: none;
